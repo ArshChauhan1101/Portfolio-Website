@@ -29,7 +29,7 @@ import tesla from "./company/Conestoga.png";
 
 import carrent from "./tech/BookScope.png";
 import jobit from "./tech/SpotifyReplica.png";
-import tripguide from "./tech/PassionAte.png";
+import tripguide from "./tech/Passionate.png";
 
 export {
   logo,
