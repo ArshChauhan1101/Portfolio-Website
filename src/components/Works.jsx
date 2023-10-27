@@ -71,10 +71,10 @@ const Works = () => {
           variants={fadeIn("", "", 0.1, 1)}
           className='mt-3 text-secondary text-[17px] max-w-3xl leading-[30px]'
         >
-          Following projects showcases my projects which can show my ability 
-          to make projects and differnent variety of project on differnet software
-          which shows my adaptability with different languages. It reflects my 
-          ability to solve complex probelms, work with different technologies and 
+          Following are the projects that showcases my ability to make innovative
+          projects and different variety of project on various software
+          which displayes my adaptability with different Computer languages. It highlights my 
+          ability to solve complex problems, work with different technologies and 
           also manage projects effectively. 
         </motion.p>
       </div>
